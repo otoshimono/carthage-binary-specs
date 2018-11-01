@@ -1,0 +1,1 @@
+# carthage-binary-specs
